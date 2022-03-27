@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! 👋
+[![wakatime](https://wakatime.com/badge/user/d6201fba-7b7a-43d0-b67c-925d368e2dbd.svg)](https://wakatime.com/@d6201fba-7b7a-43d0-b67c-925d368e2dbd)
 
 <!--
 **zsh-eng/zsh-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
