@@ -1,9 +1,12 @@
-### Hello! 👋
-I'm Zhi Sheng, a first-year computer science undergraduate.
-My interests include web development, specifically frontend development and UI/UX design!
+## Hello! 👋
+I'm Zhi Sheng, a second-year Computer Science undergraduate at the National University of Singapore.
 
-Check out my website [here](https://me-zsh-eng.vercel.app/).
+My interests are in web development and software engineering.
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi-sheng/).
 
+Some places I used to I work at: Doctor Anywhere, DSTA.
+
+Some places I will be working at: Voltade (Dec 2023 - Apr 2024), GIC (Summer 2025).
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
