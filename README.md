@@ -4,10 +4,6 @@ I'm Zhi Sheng, a second-year Computer Science undergraduate at the National Univ
 My interests are in web development and software engineering.
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi-sheng/).
 
-Some places I used to I work at: Doctor Anywhere, DSTA.
-
-Some places I will be working at: Voltade (Dec 2023 - Apr 2024), GIC (Summer 2025).
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
