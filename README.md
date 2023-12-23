@@ -4,6 +4,15 @@ I'm Zhi Sheng, a second-year Computer Science undergraduate at the National Univ
 My interests are in web development and software engineering.
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi-sheng/).
 
+## What I'm currently reading
+
+Technical books that I'm current reading:
+
+- The Pragmatic Programmer (20th Anniversary Edition)
+- Writing an interpreter in Go
+
+## Coding
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
