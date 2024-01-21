@@ -24,7 +24,7 @@ Technical books that I'm current reading:
 
 [![wakatime](https://wakatime.com/badge/user/d6201fba-7b7a-43d0-b67c-925d368e2dbd.svg)](https://wakatime.com/@d6201fba-7b7a-43d0-b67c-925d368e2dbd)
 
-[![Zhi Sheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsh-eng)](https://github.com/zsh-eng)
+[![Zhi Sheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsh-eng&count_private=true)](https://github.com/zsh-eng)
 
 <!--
 **zsh-eng/zsh-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
