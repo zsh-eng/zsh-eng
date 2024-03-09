@@ -1,7 +1,6 @@
 ## Hello! 👋
-I'm Zhi Sheng, a second-year Computer Science undergraduate at the National University of Singapore.
 
-My interests are in web development and software engineering.
+I'm Zhi Sheng, a computer science undergraduate with an interest in web development and software engineering.
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi-sheng/).
 
 ## What I'm currently doing
@@ -29,7 +28,7 @@ Prisma, Drizzle, PostgreSQL, MongoDB.
 
 UI Frameworks like Chakra, Mantine, shad/cn UI
 
-I've also have some familiarity with [Go](https://github.com/tim-pipi/cloudwego-api-gateway), [Java](https://github.com/AY2324S1-CS2103T-W17-2/tp/), and Python.
+I also have some familiarity with [Go](https://github.com/tim-pipi/cloudwego-api-gateway), [Java](https://github.com/AY2324S1-CS2103T-W17-2/tp/), and Python.
 
 [![wakatime](https://wakatime.com/badge/user/d6201fba-7b7a-43d0-b67c-925d368e2dbd.svg)](https://wakatime.com/@d6201fba-7b7a-43d0-b67c-925d368e2dbd)
 
