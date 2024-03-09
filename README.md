@@ -4,39 +4,33 @@ I'm Zhi Sheng, a second-year Computer Science undergraduate at the National Univ
 My interests are in web development and software engineering.
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi-sheng/).
 
+## What I'm currently doing
+
+- Building Generative AI driven applications at [Voltade](https://voltade.com/)
+
 ## What I'm currently reading
 
-Technical books that I'm current reading:
+- [The Dispossessed](https://www.goodreads.com/book/show/13651.The_Dispossessed) by Ursula K Le Guin
+- [Children of Time](https://www.goodreads.com/book/show/25499718-children-of-time) by Adrian Tchaikovsky
+- Listening to [Start with Why](https://www.goodreads.com/book/show/7108725-start-with-why) by Simon Sinek
 
-- The Pragmatic Programmer (20th Anniversary Edition)
-- Writing an interpreter in Go
+## What I'm current learning
+
+- Creating an [interpreter in Go](https://interpreterbook.com/)
+- Being a better [software engineer](https://www.engguidebook.com/)
+- Practical [deep learning](https://course.fast.ai/)
 
 ## Coding
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+I've done full-stack development with a range of technologies including:
+TypeScript, Next.js, React, TailwindCSS
+Hono, Cloudflare Pages, Deno
+Prisma, Drizzle, PostgreSQL, MongoDB.
+
+UI Frameworks like Chakra, Mantine, shad/cn UI
+
+I've also have some familiarity with [Go](https://github.com/tim-pipi/cloudwego-api-gateway), [Java](https://github.com/AY2324S1-CS2103T-W17-2/tp/), and Python.
 
 [![wakatime](https://wakatime.com/badge/user/d6201fba-7b7a-43d0-b67c-925d368e2dbd.svg)](https://wakatime.com/@d6201fba-7b7a-43d0-b67c-925d368e2dbd)
 
 [![Zhi Sheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsh-eng&count_private=true)](https://github.com/zsh-eng)
-
-<!--
-**zsh-eng/zsh-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
