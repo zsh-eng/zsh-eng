@@ -35,3 +35,5 @@ I also have some familiarity with [Go](https://github.com/tim-pipi/cloudwego-api
 [![Zhi Sheng's GitHub stats](https://github-readme-stats-psi-peach-33.vercel.app/api?username=zsh-eng)](https://github.com/zsh-eng)
 
 ![Top Langs](https://github-readme-stats-psi-peach-33.vercel.app/api/top-langs/?username=zsh-eng&layout=compact)
+
+[![Zhi Sheng's WakaTime stats](https://github-readme-stats-psi-peach-33.vercel.app/api/wakatime?username=zsheng)](https://github.com/anuraghazra/github-readme-stats)
