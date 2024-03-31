@@ -33,3 +33,5 @@ I also have some familiarity with [Go](https://github.com/tim-pipi/cloudwego-api
 [![wakatime](https://wakatime.com/badge/user/d6201fba-7b7a-43d0-b67c-925d368e2dbd.svg)](https://wakatime.com/@d6201fba-7b7a-43d0-b67c-925d368e2dbd)
 
 [![Zhi Sheng's GitHub stats](https://github-readme-stats-psi-peach-33.vercel.app/api?username=zsh-eng)](https://github.com/zsh-eng)
+
+![Top Langs](https://github-readme-stats-psi-peach-33.vercel.app/api/top-langs/?username=zsh-eng&layout=compact)
