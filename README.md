@@ -33,7 +33,7 @@ I also have some familiarity with [Go](https://github.com/tim-pipi/cloudwego-api
 <div align="center">
   <a href="https://github.com/zsh-eng">
   <img height="180em" src="https://github-readme-stats-psi-peach-33.vercel.app/api?username=zsh-eng&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-psi-peach-33.vercel.app/api?username=zsh-eng&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-psi-peach-33.vercel.app/api/top-langs?username=zsh-eng&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-[![Zhi Sheng's WakaTime stats](https://github-readme-stats-psi-peach-33.vercel.app/api/wakatime?username=zsheng&?theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Zhi Sheng's WakaTime stats](https://github-readme-stats-psi-peach-33.vercel.app/api/wakatime?username=zsheng&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
