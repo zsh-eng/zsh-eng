@@ -30,10 +30,10 @@ UI Frameworks like Chakra, Mantine, shad/cn UI
 
 I also have some familiarity with [Go](https://github.com/tim-pipi/cloudwego-api-gateway), [Java](https://github.com/AY2324S1-CS2103T-W17-2/tp/), and Python.
 
-[![wakatime](https://wakatime.com/badge/user/d6201fba-7b7a-43d0-b67c-925d368e2dbd.svg)](https://wakatime.com/@d6201fba-7b7a-43d0-b67c-925d368e2dbd)
+<div align="center">
+  <a href="https://github.com/zsh-eng">
+  <img height="180em" src="https://github-readme-stats-psi-peach-33.vercel.app/api?username=zsh-eng&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-psi-peach-33.vercel.app/api?username=zsh-eng&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-[![Zhi Sheng's GitHub stats](https://github-readme-stats-psi-peach-33.vercel.app/api?username=zsh-eng)](https://github.com/zsh-eng)
-
-![Top Langs](https://github-readme-stats-psi-peach-33.vercel.app/api/top-langs/?username=zsh-eng&layout=compact)
-
-[![Zhi Sheng's WakaTime stats](https://github-readme-stats-psi-peach-33.vercel.app/api/wakatime?username=zsheng)](https://github.com/anuraghazra/github-readme-stats)
+[![Zhi Sheng's WakaTime stats](https://github-readme-stats-psi-peach-33.vercel.app/api/wakatime?username=zsheng&?theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
