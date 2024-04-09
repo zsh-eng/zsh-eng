@@ -9,9 +9,8 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi-shen
 
 ## What I'm currently reading
 
-- [The Dispossessed](https://www.goodreads.com/book/show/13651.The_Dispossessed) by Ursula K Le Guin
-- [Children of Time](https://www.goodreads.com/book/show/25499718-children-of-time) by Adrian Tchaikovsky
-- Listening to [Start with Why](https://www.goodreads.com/book/show/7108725-start-with-why) by Simon Sinek
+- [Bullshit Jobs - A Theory](https://www.goodreads.com/book/show/34466958-bullshit-jobs) by David Graeber
+- [The Tombs of Atuan](https://www.goodreads.com/book/show/13662.The_Tombs_of_Atuan) by Ursula K. Le Guin
 
 ## What I'm current learning
 
