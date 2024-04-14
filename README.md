@@ -1,33 +1,22 @@
 ## Hello! 👋
 
 I'm Zhi Sheng, a computer science undergraduate with an interest in web development and software engineering.
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi-sheng/).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi-sheng/).
 
-## What I'm currently doing
+I'm currently building [spaced](https://spaced-coral-xi.vercel.app/), a modern flashcard applciation.
+It's built with a modern tech stack consisting of Next.js, tRPC, Tailwind, Drizzle, Turso.
 
-- Building Generative AI driven applications at [Voltade](https://voltade.com/)
-
-## What I'm currently reading
+## Reading List
 
 - [Bullshit Jobs - A Theory](https://www.goodreads.com/book/show/34466958-bullshit-jobs) by David Graeber
 - [The Tombs of Atuan](https://www.goodreads.com/book/show/13662.The_Tombs_of_Atuan) by Ursula K. Le Guin
 
-## What I'm current learning
-
-- Creating an [interpreter in Go](https://interpreterbook.com/)
-- Being a better [software engineer](https://www.engguidebook.com/)
-- Practical [deep learning](https://course.fast.ai/)
-
 ## Coding
 
 I've done full-stack development with a range of technologies including:
-TypeScript, Next.js, React, TailwindCSS
-Hono, Cloudflare Pages, Deno
-Prisma, Drizzle, PostgreSQL, MongoDB.
-
-UI Frameworks like Chakra, Mantine, shad/cn UI
-
-I also have some familiarity with [Go](https://github.com/tim-pipi/cloudwego-api-gateway), [Java](https://github.com/AY2324S1-CS2103T-W17-2/tp/), and Python.
+- Languages: TypeScript, [Go](https://github.com/tim-pipi/cloudwego-api-gateway), [Java](https://github.com/AY2324S1-CS2103T-W17-2/tp/), Python
+- Frameworks / Libraries: Next.js, React, TailwindCSS, Hono, Cloudflare Pages, Deno
+- Databases / ORMs: Prisma, Drizzle, PostgreSQL, Turso, MongoDB.
 
 <div align="center">
   <a href="https://github.com/zsh-eng">
