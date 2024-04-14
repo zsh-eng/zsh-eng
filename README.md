@@ -3,7 +3,7 @@
 I'm Zhi Sheng, a computer science undergraduate with an interest in web development and software engineering.
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi-sheng/).
 
-I'm currently building [spaced](https://spaced-coral-xi.vercel.app/), a modern flashcard applciation.
+I'm currently building [spaced](https://spaced-coral-xi.vercel.app/), a modern flashcard application.
 It's built with a modern tech stack consisting of Next.js, tRPC, Tailwind, Drizzle, Turso.
 
 ## Reading List
