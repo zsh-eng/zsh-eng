@@ -3,7 +3,7 @@
 I'm Zhi Sheng, a computer science undergraduate with an interest in web development and software engineering.
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi-sheng/).
 
-I'm currently building [spaced](https://spaced-coral-xi.vercel.app/), a modern flashcard application.
+I'm currently building [spaced](https://github.com/zsh-eng/spaced), a modern flashcard application.
 It's built with a modern tech stack consisting of Next.js, tRPC, Tailwind, Drizzle, Turso.
 
 ## Reading List
@@ -13,7 +13,6 @@ It's built with a modern tech stack consisting of Next.js, tRPC, Tailwind, Drizz
 
 ## Coding
 
-I've done full-stack development with a range of technologies including:
 - Languages: TypeScript, [Go](https://github.com/tim-pipi/cloudwego-api-gateway), [Java](https://github.com/AY2324S1-CS2103T-W17-2/tp/), Python
 - Frameworks / Libraries: Next.js, React, TailwindCSS, Hono, Cloudflare Pages, Deno
 - Databases / ORMs: Prisma, Drizzle, PostgreSQL, Turso, MongoDB.
