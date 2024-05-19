@@ -3,13 +3,12 @@
 I'm Zhi Sheng, a computer science undergraduate with an interest in web development and software engineering.
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi-sheng/).
 
-I'm currently building [spaced](https://github.com/zsh-eng/spaced), a modern flashcard application.
-It's built with a modern tech stack consisting of Next.js, tRPC, Tailwind, Drizzle, Turso.
+In my (limited) free time, I'm building [spaced](https://github.com/zsh-eng/spaced),
+which attempts to give a modern UI for spaced repetition.
 
 ## Reading List
 
-- [Bullshit Jobs - A Theory](https://www.goodreads.com/book/show/34466958-bullshit-jobs) by David Graeber
-- [The Tombs of Atuan](https://www.goodreads.com/book/show/13662.The_Tombs_of_Atuan) by Ursula K. Le Guin
+- [Slow Violence and the Environmentalism of the Poor](https://www.goodreads.com/book/show/10429440-slow-violence-and-the-environmentalism-of-the-poor)
 
 ## Coding
 
