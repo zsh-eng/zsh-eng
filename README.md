@@ -1,14 +1,17 @@
 ## Hello! 👋
 
 I'm Zhi Sheng, a computer science undergraduate with an interest in web development and software engineering.
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi-sheng/).
+I enjoy reading (mostly sci-fi and fantasy) and running.
 
-In my (limited) free time, I'm building [spaced](https://github.com/zsh-eng/spaced),
-which attempts to give a modern UI for spaced repetition.
+In my free time, I'm building [spaced](https://github.com/zsh-eng/spaced),
+which attempts to give a modern UI for spaced repetition and [damai](https://github.com/zsh-eng/damai/tree/main/src/lib/lexical/vim), a note-taking app with Vim emulation.
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi-sheng/).
 
 ## Reading List
 
-- [Slow Violence and the Environmentalism of the Poor](https://www.goodreads.com/book/show/10429440-slow-violence-and-the-environmentalism-of-the-poor)
+- [How to Do Nothing: Resisting the Attention Economy](https://www.goodreads.com/book/show/42771901-how-to-do-nothing)
+- [Leviathan Wakes](https://www.goodreads.com/book/show/8855321-leviathan-wakes)
 
 ## Coding
 
