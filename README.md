@@ -15,9 +15,11 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi
 
 ## Coding
 
-- Languages: TypeScript, [Go](https://github.com/tim-pipi/cloudwego-api-gateway), [Java](https://github.com/AY2324S1-CS2103T-W17-2/tp/), Python
-- Frameworks / Libraries: Next.js, React, TailwindCSS, Hono, Cloudflare Pages, Deno
-- Databases / ORMs: Prisma, Drizzle, PostgreSQL, Turso, MongoDB.
+- Languages: JavaScript, TypeScript, Python, Java, SQL
+- Frameworks and Libraries: React, Next.js, Flask, Hono, Express, Spring Boot, GraphQL
+- Databases and ORMs / ODMs: PostgreSQL, MongoDB, Prisma, Drizzle, MongoEngine
+- Tool and Technologies: Git, Docker, AWS (Step Functions, Lambda), Cloudflare Workers
+
 
 <div align="center">
   <a href="https://github.com/zsh-eng">
