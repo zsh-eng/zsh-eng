@@ -10,6 +10,10 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi
 - [Caliban's War](https://www.goodreads.com/book/show/12591698-caliban-s-war)
 - [Elon Musk](https://www.goodreads.com/book/show/122765395-elon-musk)
 
+## Currently Building
+
+Browser-based, local-first EPUB [reader](https://github.com/zsh-eng/reader).
+
 ## Coding
 
 - Languages: JavaScript, TypeScript, Python, Java, SQL
