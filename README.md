@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm Zhi Sheng, a computer science undergraduate with an interest in UI/UX design, backend architecture and distributed systems.
+I'm Zhi Sheng, a computer science undergraduate with an interest in UX, databases, and distributed systems.
 I enjoy reading (mostly sci-fi and fantasy) and running.
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi-sheng/).
