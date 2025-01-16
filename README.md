@@ -15,6 +15,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi
 ### 2️⃣0️⃣2️⃣5️⃣
 
 ⏸️ Rebuilding [spaced](https://spaced.zsheng.app/) to be a local-first PWA. (*paused - learning how to handle local-first synchronisation*)
+
 ⏸️ Browser-based, local-first EPUB [reader](https://github.com/zsh-eng/reader).
 
 Doing some interesting online courses:
