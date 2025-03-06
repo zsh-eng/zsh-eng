@@ -7,15 +7,22 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi
 
 ## Currently Reading
 
-- [The Will of the Many](https://www.goodreads.com/book/show/58416952-the-will-of-the-many)
+- [Contact by Carl Sagan](https://www.goodreads.com/book/show/53000876-contact)
 
 ## Stuff I'm Doing
 
 ### 2️⃣0️⃣2️⃣5️⃣
 
-🔄 Rebuilding [spaced](https://spaced.zsheng.app/) to be a local-first PWA. Building the sync engine [using CRDTs](https://github.com/zsh-eng/spaced-backend).
+[Personal Software:](https://leerob.com/n/personal-software)
 
-⏸️ Browser-based, local-first EPUB [reader](https://github.com/zsh-eng/reader).
+1. Rebuilt [spaced](https://spaced2.zsheng.app/) to be a local-first PWA. Built the sync engine [using CRDTs](https://github.com/zsh-eng/spaced-backend).
+2. [Ream](https://github.com/zsh-eng/ream?tab=readme-ov-file): my own reader mode extension.
+
+Still cooking:
+
+- Voice dictation in the browser
+- Capturing fleeting notes (instead of using losing thoughts in Telegram saved messages forever)
+- My own Obsidian
 
 Working on some interesting online courses:
 
