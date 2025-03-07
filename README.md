@@ -5,7 +5,6 @@ I'm Zhi Sheng, a computer science undergraduate at NUS.
 I'm interested in personal/local-first software, distributed systems, databases, and building delightful user interfaces.
 I enjoy reading (mostly sci-fi and fantasy), long bus rides, and [long walks](https://internetprincess.substack.com/p/choosing-to-walk).
 
-Unfortunately, I have never had any experience in art / design. I design user interfaces by staring at [Mobbin](https://mobbin.com/browse/ios/apps) and ~~copying~~ getting inspiration from my favourite software. If you have any tips or guidance for design, or just want to talk to me, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cheng-zhi-sheng/).
 
 ## Currently Reading
 
