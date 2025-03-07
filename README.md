@@ -18,12 +18,8 @@ I enjoy reading (mostly sci-fi and fantasy), long bus rides, and [long walks](ht
 
 1. Rebuilt [spaced](https://spaced2.zsheng.app/) to be a local-first PWA. Built the sync engine [using CRDTs](https://github.com/zsh-eng/spaced-backend).
 2. [Ream](https://github.com/zsh-eng/ream?tab=readme-ov-file): my own reader mode extension.
+3. Whisp: voice dictation in the browser
 
-Still cooking:
-
-- Voice dictation in the browser
-- Capturing fleeting notes (instead of using losing thoughts in Telegram saved messages forever)
-- My own Obsidian
 
 Working on some interesting online courses:
 
