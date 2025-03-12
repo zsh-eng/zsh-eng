@@ -18,8 +18,17 @@ I enjoy reading (mostly sci-fi and fantasy), long bus rides, and [long walks](ht
 
 1. Rebuilt [spaced](https://spaced2.zsheng.app/) to be a local-first PWA. Built the sync engine [using CRDTs](https://github.com/zsh-eng/spaced-backend).
 2. [Ream](https://github.com/zsh-eng/ream?tab=readme-ov-file): my own reader mode extension.
-3. Whisp: voice dictation in the browser
+3. [Whisp](https://github.com/zsh-eng/whisp): voice dictation in the browser
+4. Nod: Podcast note-taking mobile app + Sponsorblock for podcasts
 
+Other ideas:
+
+- Zotero / Citation Manager but for markdown
+- Personal project management - Kanban / Linear style
+- Ebook / Article reader mobile + desktop app
+- Screenshoting app, similar to Screen Studio
+- Lecture note-taking
+- Desktop voice assistant
 
 Working on some interesting online courses:
 
