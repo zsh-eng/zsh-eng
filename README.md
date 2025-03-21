@@ -2,9 +2,20 @@
 
 I'm Zhi Sheng, a computer science undergraduate at NUS.
 
-I'm interested in personal/local-first software, distributed systems, databases, and building delightful user interfaces.
 I enjoy reading (mostly sci-fi and fantasy), long bus rides, and [long walks](https://internetprincess.substack.com/p/choosing-to-walk).
 
+## About Me
+
+I care about the little details of software.
+
+It’s the tiny things - the things no one else might notice except the creator.
+The creator who feels compelled to add them just for the sake of it.
+These small elements add up to something greater than the sum of their parts.
+They tell the user that someone on the other side cared enough to put in the time and effort to make something special.
+
+That is the kind of software I aspire to build.
+
+If you’re interested in local-first or personal software, distributed systems, or discussing the future of UX and software interaction, feel free to reach out!
 
 ## Currently Reading
 
@@ -19,16 +30,8 @@ I enjoy reading (mostly sci-fi and fantasy), long bus rides, and [long walks](ht
 1. Rebuilt [spaced](https://spaced2.zsheng.app/) to be a local-first PWA. Built the sync engine [using CRDTs](https://github.com/zsh-eng/spaced-backend).
 2. [Ream](https://github.com/zsh-eng/ream?tab=readme-ov-file): my own reader mode extension.
 3. [Whisp](https://github.com/zsh-eng/whisp): voice dictation in the browser
-4. Nod: Podcast note-taking mobile app + Sponsorblock for podcasts
-
-Other ideas:
-
-- Zotero / Citation Manager but for markdown
-- Personal project management - Kanban / Linear style
-- Ebook / Article reader mobile + desktop app
-- Screenshoting app, similar to Screen Studio
-- Lecture note-taking
-- Desktop voice assistant
+4. [Kanban](https://github.com/zsh-eng/kanban): personal task management
+5. Nod: Podcast note-taking mobile app + Sponsorblock for podcasts (React Native, Expo)
 
 Working on some interesting online courses:
 
@@ -41,7 +44,6 @@ Working on some interesting online courses:
   - ✅ Buffer Pool Manager
   - 🔄 Concurrent B+Tree
 - [UC Berkeley AI Course](https://inst.eecs.berkeley.edu/~cs188/fa24/)
-  - 🔄 Project 1
 
 Started reading CS papers this year:
 
