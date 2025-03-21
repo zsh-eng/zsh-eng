@@ -4,19 +4,6 @@ I'm Zhi Sheng, a computer science undergraduate at NUS.
 
 I enjoy reading (mostly sci-fi and fantasy), long bus rides, and [long walks](https://internetprincess.substack.com/p/choosing-to-walk).
 
-## About Me
-
-I care about the little details of software.
-
-It’s the tiny things - the things no one else might notice except the creator.
-The creator who feels compelled to add them just for the sake of it.
-These small elements add up to something greater than the sum of their parts.
-They tell the user that someone on the other side cared enough to put in the time and effort to make something special.
-
-That is the kind of software I aspire to build.
-
-If you’re interested in local-first or personal software, distributed systems, or discussing the future of UX and software interaction, feel free to reach out!
-
 ## Currently Reading
 
 - [Contact by Carl Sagan](https://www.goodreads.com/book/show/53000876-contact)
