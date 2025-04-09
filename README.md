@@ -4,15 +4,11 @@ I'm Zhi Sheng, a computer science undergraduate at NUS.
 
 I enjoy reading (mostly sci-fi and fantasy), long bus rides, and [long walks](https://internetprincess.substack.com/p/choosing-to-walk).
 
-## Currently Reading
-
-- [Contact by Carl Sagan](https://www.goodreads.com/book/show/53000876-contact)
-
 ## Stuff I'm Doing
 
 ### 2️⃣0️⃣2️⃣5️⃣
 
-[Personal Software:](https://leerob.com/n/personal-software)
+Building some personal software:
 
 1. Rebuilt [spaced](https://spaced2.zsheng.app/) to be a local-first PWA. Built the sync engine [using CRDTs](https://github.com/zsh-eng/spaced-backend).
 2. [Ream](https://github.com/zsh-eng/ream?tab=readme-ov-file): my own reader mode extension.
@@ -23,14 +19,7 @@ I enjoy reading (mostly sci-fi and fantasy), long bus rides, and [long walks](ht
 Working on some interesting online courses:
 
 - [MIT Distributed Systems](https://pdos.csail.mit.edu/6.824/index.html)
-  - ✅ MapReduce
-  - ✅ KVStore
-  - ✅ Raft
-  - ⏸️ KV Service on top of Raft
 - [CMU Database Systems](https://15445.courses.cs.cmu.edu/fall2024/)
-  - ✅ Buffer Pool Manager
-  - 🔄 Concurrent B+Tree
-- [UC Berkeley AI Course](https://inst.eecs.berkeley.edu/~cs188/fa24/)
 
 Started reading CS papers this year:
 
